@@ -152,4 +152,22 @@ button:hover {
     max-height: 300px;
     overflow-y: auto;
 }
+@media screen and (max-width: 600px) {
+    .calculator {
+        width: 90%; /* Take up more screen width on small devices */
+        border-radius: 15px;
+    }
 
+    .buttons button, .top-bar .toggle, .top-bar .history-toggle {
+        font-size: 20px; /* Larger font size for better readability */
+        padding: 15px; /* Larger buttons for easier tapping */
+    }
+
+    .display, .history-panel {
+        font-size: 24px; /* Larger display font */
+    }
+
+    .side-panel-content, .history-header {
+        font-size: 16px; /* Adjust font size for side and history panels */
+    }
+}
