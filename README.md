@@ -18,8 +18,9 @@ To use the calculator:
 3. View the result instantly after each operation.
 4. Use the history feature to refer back to recent calculations.
 
-## Installation
-No installation is required. Access the calculator online [https://moulik07.github.io/Calculator/](#)
+## Live Demo
+Access the live version of the calculator [here](https://moulik07.github.io/Calculator/).
+
 
 ## Technology
 This calculator is built using HTML, CSS, and JavaScript. It demonstrates the use of modern web development techniques for creating responsive and interactive web applications. 
